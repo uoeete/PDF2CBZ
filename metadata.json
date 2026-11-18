@@ -1,6 +1,0 @@
-{
-  "name": "PDF2CBZ",
-  "description": "High-speed offline batch PDF to CBZ converter for Android manga readers like Mihon.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
